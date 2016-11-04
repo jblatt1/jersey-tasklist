@@ -1,0 +1,3 @@
+.gradle/*
+*.iml
+jersey-backend/.idea/*
